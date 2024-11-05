@@ -8,5 +8,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface PetRepository extends JpaRepository<Pet, Integer> {
-// Здесь можно добавить дополнительные методы для запросов к базе данных, если необходимо
+
 }
