@@ -33,12 +33,10 @@ public class MyApp {
     @Bean
     public CommandLineRunner demo() {
         return args -> {
-// Здесь можно добавить код для тестирования вашего приложения
-// Например, вызвать методы вашего сервиса для создания, чтения, обновления и удаления данных
-// и выводить результаты на консоль
 
 
-// Пример:
+
+
             /*Owner owner = new Owner();
             owner.setName("John");
             owner.setEmail("john@example.com");
